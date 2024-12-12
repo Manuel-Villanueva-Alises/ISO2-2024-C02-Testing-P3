@@ -1,4 +1,4 @@
-# Manuel_Villanueva-ISO2-2024-C02-Testing-P2
+# Manuel_Villanueva-ISO2-2024-C02-Testing-P3
 Repositorio para el problema 3.
 
 ## Integrantes de el problema 3
